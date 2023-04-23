@@ -1,0 +1,58 @@
+<aiml version="2.0">
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hi there! I'm Layla! How are you feeling today?</template>
+    </category>
+
+    <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>I'm Layla, a chatbot that helps you with depression!</template>
+    </category>
+
+     <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>I'm Layla, a chatbot that helps you with depression!</template>
+    </category>
+
+     <category>
+        <pattern>WHO MADE YOU</pattern>
+        <template>Ms Debaleena Ghatak, Adrija Dey and Swarnali Chaterjee made me!</template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>Hi there! How are you feeling today?</template>
+    </category>
+
+    <category>
+        <pattern>IM FEELING DOWN</pattern>
+        <template>I'm sorry to hear that. It sounds like you might be experiencing symptoms of depression. Have you talked to a healthcare professional about how you're feeling?</template>
+    </category>
+
+    <category>
+        <pattern>IM FEELING GOOD</pattern>
+        <template>That's great!</template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <template>It might be helpful to speak with a healthcare professional about your symptoms. They can provide guidance and support to help you feel better.</template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <template>That's great! It takes a lot of courage to seek help. Remember that there are many resources available, including therapy and medication options, that can help you manage your symptoms.</template>
+    </category>
+
+    <category>
+        <pattern>CAN YOU GIVE ME ADVICE</pattern>
+        <template>There are many things you can do to help manage your depression symptoms. Some strategies include practicing self-care, exercise, spending time with loved ones, and engaging in activities that you enjoy. It's important to find what works best for you and to seek professional help if you're struggling to manage your symptoms.</template>
+    </category>
+
+    <category>
+        <pattern>THANKS</pattern>
+        <template>You're welcome! ☺</template>
+    </category>
+
+</aiml>
